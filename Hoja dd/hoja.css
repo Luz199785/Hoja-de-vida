@@ -1,0 +1,98 @@
+body{
+	font-family: 'Raleway', sans-serif;
+}
+
+body{margin-left:200px;
+margin-right:200px;
+background-color: #2E8B57;
+background-image: url("https://i.ibb.co/D9fWV65/14d940690a272a95e6190c85f85d2acc.gif");
+font-family: 'Bebas Neue';}
+
+
+.inline{
+	font-family: 'Raleway', sans-serif;
+	font-size: 20px;
+  color: #008080;
+  
+  
+}
+
+a:link
+{
+text-decoration:none;
+  ;
+  
+}
+.titulodos{text-align:center;
+font-size: 55px;
+ font-family: 'Raleway', sans-serif;
+   color: #FC6B6B;
+ 
+}
+.titulo{
+  font-size: 22px;
+  text-align:center;
+  color: #6BFC99;
+  	font-family: 'Raleway', sans-serif;
+  
+}
+#menu{
+  display: flex;
+  
+}
+.uno{
+margin-left:70px;
+  color: #4EB6AD;
+  	font-family: 'Raleway', sans-serif;
+}
+.dos{
+margin-left:70px;
+    color:#9F7FB1;	font-family: 'Raleway', sans-serif;
+}
+
+.tres{
+margin-left:70px;
+    color:#D18FAD;	font-family: 'Raleway', sans-serif;
+}
+
+.cuatro{
+margin-left:70px;
+    color:#87D98D;	font-family: 'Raleway', sans-serif;
+}
+.col{
+  font-size: 22px;	font-family: 'Raleway', sans-serif;
+}
+
+
+}
+#cono{
+  font-size: 30px;
+  	font-family: 'Raleway', sans-serif;
+}
+
+.ejemp{
+  font-size: 22;
+  	font-family: 'Raleway', sans-serif;
+}
+.Colegio{
+font-size: 22px;	
+  font-family: 'Raleway', sans-serif;
+}
+#educacion{
+font-size: 30px;
+  	font-family: 'Raleway', sans-serif;
+}
+#redes{
+  font-size: 30px;
+  	font-family: 'Raleway', sans-serif;
+}
+#Clase{
+  font-size: 30px;
+  	font-family: 'Raleway', sans-serif;
+}
+#Yo{
+
+  font-size: 25px;
+  text-align:center;
+  font-family: 'Raleway', sans-serif;
+}
